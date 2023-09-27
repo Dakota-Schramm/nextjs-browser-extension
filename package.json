@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:help": "echo 'To use extension, run build, export then format for rspective os",
     "export": "next export",
     "start": "next start",
     "lint": "next lint",

@@ -7,7 +7,7 @@ const Home: NextPage = () => {
         <h1>Hello!</h1>
         <p>This is a Next.js application. 😎</p>
       </section>
-      <h2 className="text-red-600">Test</h2>
+      <h2 className="text-red-600">Test new text</h2>
     </main>
   );
 };
